@@ -1,6 +1,7 @@
 ## **Installing Github Credential Manager GCM**
 **Reference URLs:**
 https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md
+
 https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/credstores.md
 
 **Perform this on your Ubuntu machine:**
