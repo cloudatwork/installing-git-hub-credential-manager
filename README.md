@@ -1,1 +1,0 @@
-# installing-git-hub-credential-manager
